@@ -1,0 +1,535 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{63E6133F-716B-4318-B0BE-942B5DF60B4E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>JOVIA_WIN</RootNamespace>
+    <AssemblyName>JOVIA_WIN</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="DirectX.Capture">
+      <HintPath>..\..\..\PROJET_IDBConnect_BackUp\JOVIA\JOVIA_WIN\bin\Debug\DirectX.Capture.dll</HintPath>
+    </Reference>
+    <Reference Include="DShowNET">
+      <HintPath>..\..\..\PROJET_IDBConnect_BackUp\JOVIA\JOVIA_WIN\bin\Debug\DShowNET.dll</HintPath>
+    </Reference>
+    <Reference Include="GSMCommunication, Version=1.10.0.0, Culture=neutral, PublicKeyToken=515d87df384dcc81">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\ManageSMS\bin\Release\GSMCommunication.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="MySql.Data, Version=6.2.1.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Npgsql, Version=2.0.11.0, Culture=neutral, PublicKeyToken=5d8b90d52f46fda7, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\windows\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AideContent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AideContent.Designer.cs">
+      <DependentUpon>AideContent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AideContentServeur.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AideContentServeur.designer.cs">
+      <DependentUpon>AideContentServeur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="APropos.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="APropos.Designer.cs">
+      <DependentUpon>APropos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AProposServeur.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AProposServeur.designer.cs">
+      <DependentUpon>AProposServeur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AvenueVillageForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AvenueVillageForm.Designer.cs">
+      <DependentUpon>AvenueVillageForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AvenueVillageFormServeur.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AvenueVillageFormServeur.designer.cs">
+      <DependentUpon>AvenueVillageFormServeur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComCheffQuartierLoc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ComCheffQuartierLoc.Designer.cs">
+      <DependentUpon>ComCheffQuartierLoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComCheffQuartierLocServeur.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ComCheffQuartierLocServeur.designer.cs">
+      <DependentUpon>ComCheffQuartierLocServeur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConnectBdServeur.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ConnectBdServeur.Designer.cs">
+      <DependentUpon>ConnectBdServeur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConnexionBd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConnexionBd.Designer.cs">
+      <DependentUpon>ConnexionBd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExecuteQuery.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ExecuteQuery.Designer.cs">
+      <DependentUpon>ExecuteQuery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExecuteQueryServeur.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ExecuteQueryServeur.designer.cs">
+      <DependentUpon>ExecuteQueryServeur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoadingClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoadingClient.designer.cs">
+      <DependentUpon>LoadingClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManipulationUtilisateur.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ManipulationUtilisateur.Designer.cs">
+      <DependentUpon>ManipulationUtilisateur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManipulationUtilisateurServeur.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ManipulationUtilisateurServeur.designer.cs">
+      <DependentUpon>ManipulationUtilisateurServeur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MesageNotInserted.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MesageNotInserted.Designer.cs">
+      <DependentUpon>MesageNotInserted.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modem.Designer.cs">
+      <DependentUpon>Modem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ParametreProvinceForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ParametreProvinceForm.designer.cs">
+      <DependentUpon>ParametreProvinceForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ParametreWebCam.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ParametreWebCam.Designer.cs">
+      <DependentUpon>ParametreWebCam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ParametreWebCamServeur.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ParametreWebCamServeur.designer.cs">
+      <DependentUpon>ParametreWebCamServeur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PersonneCarte.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PersonneCarte.Designer.cs">
+      <DependentUpon>PersonneCarte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PersonneCarteServeur.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PersonneCarteServeur.designer.cs">
+      <DependentUpon>PersonneCarteServeur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrincipalClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrincipalClient.designer.cs">
+      <DependentUpon>PrincipalClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AideContent.resx">
+      <DependentUpon>AideContent.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AideContentServeur.resx">
+      <DependentUpon>AideContentServeur.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="APropos.resx">
+      <DependentUpon>APropos.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AProposServeur.resx">
+      <DependentUpon>AProposServeur.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AvenueVillageForm.resx">
+      <DependentUpon>AvenueVillageForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AvenueVillageFormServeur.resx">
+      <DependentUpon>AvenueVillageFormServeur.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComCheffQuartierLoc.resx">
+      <DependentUpon>ComCheffQuartierLoc.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComCheffQuartierLocServeur.resx">
+      <DependentUpon>ComCheffQuartierLocServeur.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConnectBdServeur.resx">
+      <DependentUpon>ConnectBdServeur.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConnexionBd.resx">
+      <DependentUpon>ConnexionBd.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExecuteQuery.resx">
+      <DependentUpon>ExecuteQuery.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExecuteQueryServeur.resx">
+      <DependentUpon>ExecuteQueryServeur.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoadingClient.resx">
+      <DependentUpon>LoadingClient.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManipulationUtilisateur.resx">
+      <DependentUpon>ManipulationUtilisateur.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManipulationUtilisateurServeur.resx">
+      <DependentUpon>ManipulationUtilisateurServeur.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MesageNotInserted.resx">
+      <DependentUpon>MesageNotInserted.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modem.resx">
+      <DependentUpon>Modem.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ParametreProvinceForm.resx">
+      <DependentUpon>ParametreProvinceForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ParametreWebCam.resx">
+      <DependentUpon>ParametreWebCam.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ParametreWebCamServeur.resx">
+      <DependentUpon>ParametreWebCamServeur.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonneCarte.resx">
+      <DependentUpon>PersonneCarte.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonneCarteServeur.resx">
+      <DependentUpon>PersonneCarteServeur.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrincipalClient.resx">
+      <DependentUpon>PrincipalClient.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProvinceForm.resx">
+      <DependentUpon>ProvinceForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RptDensite.resx">
+      <DependentUpon>RptDensite.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ServeurOperation.resx">
+      <DependentUpon>ServeurOperation.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DensitePopulation.resx">
+      <DependentUpon>DensitePopulation.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RptTauxCroissance.resx">
+      <DependentUpon>RptTauxCroissance.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RptTauxNatalite.resx">
+      <DependentUpon>RptTauxNatalite.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RptTautMortalite.resx">
+      <DependentUpon>RptTautMortalite.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VilleTerritoireForm.resx">
+      <DependentUpon>VilleTerritoireForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RptCartePersonne.resx">
+      <DependentUpon>RptCartePersonne.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ProvinceForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ProvinceForm.designer.cs">
+      <DependentUpon>ProvinceForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RptDensite.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RptDensite.designer.cs">
+      <DependentUpon>RptDensite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ServeurOperation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ServeurOperation.designer.cs">
+      <DependentUpon>ServeurOperation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DensitePopulation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DensitePopulation.Designer.cs">
+      <DependentUpon>DensitePopulation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RptTauxCroissance.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RptTauxCroissance.Designer.cs">
+      <DependentUpon>RptTauxCroissance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RptTauxNatalite.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RptTauxNatalite.Designer.cs">
+      <DependentUpon>RptTauxNatalite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RptTautMortalite.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RptTautMortalite.Designer.cs">
+      <DependentUpon>RptTautMortalite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VilleTerritoireForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="VilleTerritoireForm.Designer.cs">
+      <DependentUpon>VilleTerritoireForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RptCartePersonne.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RptCartePersonne.Designer.cs">
+      <DependentUpon>RptCartePersonne.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\JOVIA_LIB\JOVIA_LIB.csproj">
+      <Project>{74C9DDFD-15C3-425F-97B0-085AD795687A}</Project>
+      <Name>JOVIA_LIB</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\JOVIA_LIB_SERVEUR\JOVIA_LIB_SERVEUR.csproj">
+      <Project>{A454DA4C-052E-46E3-A268-A5C0737A26C7}</Project>
+      <Name>JOVIA_LIB_SERVEUR</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\JOVIA_RPT\JOVIA_RPT.csproj">
+      <Project>{1FE41437-FBB7-4488-B195-4DB60ECC3DDE}</Project>
+      <Name>JOVIA_RPT</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\zsb_homeButton_N.png" />
+    <None Include="image\Supprimer.png" />
+    <None Include="image\Ajouter.png" />
+    <None Include="image\Ajouter1.png" />
+    <None Include="image\Ajouter2.png" />
+    <None Include="image\Avenue.png" />
+    <Content Include="image\Background.jpg" />
+    <None Include="image\BackUpDistant.png" />
+    <None Include="image\BackUpLocal.png" />
+    <None Include="image\configModem.png" />
+    <None Include="image\CreationQuery.png" />
+    <Content Include="image\delete.ico" />
+    <None Include="image\disk.png" />
+    <None Include="image\Enregistrer.png" />
+    <None Include="image\entite.png" />
+    <None Include="image\ExectQuery.png" />
+    <None Include="image\GetPhoto.png" />
+    <None Include="image\GpUser.png" />
+    <None Include="image\Login.png" />
+    <None Include="image\ManageUser.png" />
+    <None Include="image\ManageUser2.png" />
+    <None Include="image\Modifier.png" />
+    <None Include="image\MsgTemporaire.png" />
+    <Content Include="image\next.png" />
+    <Content Include="image\pc.jpg" />
+    <Content Include="image\pc2.ico" />
+    <Content Include="image\previous.png" />
+    <None Include="image\Recherche.png" />
+    <Content Include="image\refresh.png" />
+    <None Include="image\Restorebd.png" />
+    <None Include="image\Sauvegarde.png" />
+    <Content Include="image\save.png" />
+    <None Include="Resources\TEST.png" />
+    <None Include="Resources\mp_addfolder_disabled_md_n_dk%402x.png" />
+    <None Include="Resources\open_in%402x.png" />
+    <None Include="Resources\bg.png" />
+    <None Include="Resources\chat-actions-background-landscape.png" />
+    <None Include="Resources\img_home_player_background.png" />
+    <None Include="Resources\Close.png" />
+    <None Include="Resources\img_home_news_background.png" />
+    <None Include="Resources\mp_cancelsearch_cu_s%402x.png" />
+    <None Include="Resources\mp_delete_md_n_lt%402x1.png" />
+    <None Include="Resources\check%402x1.png" />
+    <None Include="Resources\update1.png" />
+    <None Include="Resources\navBarAddIcon%402x.png" />
+    <None Include="Resources\img_emissions_player_background.png" />
+    <None Include="Resources\chev.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

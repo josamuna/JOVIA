@@ -1,0 +1,128 @@
+D:\PROJET\JOVIA\JOVIA_LIB\bin\Debug\JOVIA_LIB.dll
+D:\PROJET\JOVIA\JOVIA_LIB\bin\Debug\JOVIA_LIB.pdb
+D:\PROJET\JOVIA\JOVIA_LIB\bin\Debug\Npgsql.dll
+D:\PROJET\JOVIA\JOVIA_LIB\bin\Debug\Mono.Security.dll
+D:\PROJET\JOVIA\JOVIA_LIB\bin\Debug\Npgsql.pdb
+D:\PROJET\JOVIA\JOVIA_LIB\bin\Debug\Npgsql.xml
+D:\PROJET\JOVIA\JOVIA_LIB\bin\Debug\de\Npgsql.resources.dll
+D:\PROJET\JOVIA\JOVIA_LIB\bin\Debug\es\Npgsql.resources.dll
+D:\PROJET\JOVIA\JOVIA_LIB\bin\Debug\fi\Npgsql.resources.dll
+D:\PROJET\JOVIA\JOVIA_LIB\bin\Debug\fr\Npgsql.resources.dll
+D:\PROJET\JOVIA\JOVIA_LIB\bin\Debug\ja\Npgsql.resources.dll
+D:\PROJET\JOVIA\JOVIA_LIB\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\PROJET\JOVIA\JOVIA_LIB\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJET\JOVIA\JOVIA_LIB\obj\Debug\JOVIA_LIB.dll
+D:\PROJET\JOVIA\JOVIA_LIB\obj\Debug\JOVIA_LIB.pdb
+D:\PROJETS\F16\PROJET\JOVIA\JOVIA_LIB\bin\Debug\JOVIA_LIB.dll
+D:\PROJETS\F16\PROJET\JOVIA\JOVIA_LIB\bin\Debug\JOVIA_LIB.pdb
+D:\PROJETS\F16\PROJET\JOVIA\JOVIA_LIB\bin\Debug\Npgsql.dll
+D:\PROJETS\F16\PROJET\JOVIA\JOVIA_LIB\bin\Debug\Mono.Security.dll
+D:\PROJETS\F16\PROJET\JOVIA\JOVIA_LIB\bin\Debug\Npgsql.pdb
+D:\PROJETS\F16\PROJET\JOVIA\JOVIA_LIB\bin\Debug\Npgsql.xml
+D:\PROJETS\F16\PROJET\JOVIA\JOVIA_LIB\bin\Debug\de\Npgsql.resources.dll
+D:\PROJETS\F16\PROJET\JOVIA\JOVIA_LIB\bin\Debug\es\Npgsql.resources.dll
+D:\PROJETS\F16\PROJET\JOVIA\JOVIA_LIB\bin\Debug\fi\Npgsql.resources.dll
+D:\PROJETS\F16\PROJET\JOVIA\JOVIA_LIB\bin\Debug\fr\Npgsql.resources.dll
+D:\PROJETS\F16\PROJET\JOVIA\JOVIA_LIB\bin\Debug\ja\Npgsql.resources.dll
+D:\PROJETS\F16\PROJET\JOVIA\JOVIA_LIB\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\PROJETS\F16\PROJET\JOVIA\JOVIA_LIB\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJETS\F16\PROJET\JOVIA\JOVIA_LIB\obj\Debug\JOVIA_LIB.dll
+D:\PROJETS\F16\PROJET\JOVIA\JOVIA_LIB\obj\Debug\JOVIA_LIB.pdb
+D:\PROJET\JOVIA\JOVIA_LIB\bin\Debug\ManageSMS.dll
+D:\PROJET\JOVIA\JOVIA_LIB\bin\Debug\PDUConverter.dll
+D:\PROJET\JOVIA\JOVIA_LIB\bin\Debug\GSMCommShared.dll
+D:\PROJET\JOVIA\JOVIA_LIB\bin\Debug\GSMCommunication.dll
+D:\PROJET\JOVIA\JOVIA_LIB\bin\Debug\RS232.dll
+D:\PROJET\JOVIA\JOVIA_LIB\bin\Debug\ManageSMS.pdb
+D:\PROJET_IDBConnect\JOVIA\JOVIA_LIB\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJET_IDBConnect\JOVIA\JOVIA_LIB\obj\Debug\JOVIA_LIB.dll
+D:\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\JOVIA_LIB.dll
+D:\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\JOVIA_LIB.pdb
+D:\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\Mono.Security.dll
+D:\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\Npgsql.pdb
+D:\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\Npgsql.xml
+D:\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\de\Npgsql.resources.dll
+D:\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\es\Npgsql.resources.dll
+D:\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\fi\Npgsql.resources.dll
+D:\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\fr\Npgsql.resources.dll
+D:\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\ja\Npgsql.resources.dll
+D:\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\PROJET_IDBConnect\JOVIA\JOVIA_LIB\obj\Debug\JOVIA_LIB.pdb
+D:\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\RS232.dll
+D:\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\JOVIA_LIB_SERVEUR.dll
+D:\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\JOVIA_LIB_SERVEUR.pdb
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\JOVIA_LIB.dll
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\JOVIA_LIB.pdb
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\JOVIA_LIB_SERVEUR.dll
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\Mono.Security.dll
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\RS232.dll
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\Npgsql.pdb
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\Npgsql.xml
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\JOVIA_LIB_SERVEUR.pdb
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\de\Npgsql.resources.dll
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\es\Npgsql.resources.dll
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\fi\Npgsql.resources.dll
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\fr\Npgsql.resources.dll
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\ja\Npgsql.resources.dll
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_LIB\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_LIB\obj\Debug\JOVIA_LIB.dll
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_LIB\obj\Debug\JOVIA_LIB.pdb
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\JOVIA_LIB.dll
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\JOVIA_LIB.pdb
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\JOVIA_LIB_SERVEUR.dll
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\Mono.Security.dll
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\RS232.dll
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\Npgsql.pdb
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\Npgsql.xml
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\JOVIA_LIB_SERVEUR.pdb
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\de\Npgsql.resources.dll
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\es\Npgsql.resources.dll
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_LIB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_LIB\obj\Debug\JOVIA_LIB.dll
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_LIB\obj\Debug\JOVIA_LIB.pdb
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\JOVIA_LIB.dll
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\JOVIA_LIB.pdb
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\JOVIA_LIB_SERVEUR.dll
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\Mono.Security.dll
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\RS232.dll
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\Npgsql.pdb
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\Npgsql.xml
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\JOVIA_LIB_SERVEUR.pdb
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\de\Npgsql.resources.dll
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\es\Npgsql.resources.dll
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_LIB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_LIB\obj\Debug\JOVIA_LIB.dll
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_LIB\obj\Debug\JOVIA_LIB.pdb
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\JOVIA_LIB.dll
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\JOVIA_LIB.pdb
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\JOVIA_LIB_SERVEUR.dll
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\Mono.Security.dll
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\RS232.dll
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\Npgsql.pdb
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\Npgsql.xml
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\JOVIA_LIB_SERVEUR.pdb
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\de\Npgsql.resources.dll
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\es\Npgsql.resources.dll
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\fi\Npgsql.resources.dll
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\fr\Npgsql.resources.dll
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\ja\Npgsql.resources.dll
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_LIB\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_LIB\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_LIB\obj\Debug\JOVIA_LIB.dll
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_LIB\obj\Debug\JOVIA_LIB.pdb
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_LIB\obj\Debug\ResolveAssemblyReference.cache
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_LIB\obj\Debug\JOVIA_LIB.dll
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_LIB\obj\Debug\JOVIA_LIB.pdb
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_LIB\obj\Debug\ResolveAssemblyReference.cache
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_LIB\obj\Debug\JOVIA_LIB.dll
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_LIB\obj\Debug\JOVIA_LIB.pdb
+D:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_LIB\obj\Debug\ResolveAssemblyReference.cache

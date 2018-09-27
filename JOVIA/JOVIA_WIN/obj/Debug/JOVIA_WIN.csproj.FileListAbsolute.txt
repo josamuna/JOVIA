@@ -1,0 +1,438 @@
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_WIN.exe.config
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_WIN.exe
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_WIN.pdb
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_LIB.dll
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_LIB_SERVEUR.dll
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_RPT.exe
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\PDUConverter.dll
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\Mono.Security.dll
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\RS232.dll
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\GSMCommShared.dll
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_RPT.pdb
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\Npgsql.pdb
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\Npgsql.xml
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_LIB.pdb
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_LIB_SERVEUR.pdb
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\de\Npgsql.resources.dll
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\es\Npgsql.resources.dll
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\fi\Npgsql.resources.dll
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\fr\Npgsql.resources.dll
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\ja\Npgsql.resources.dll
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AideContent.resources
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AideContentServeur.resources
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.APropos.resources
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AProposServeur.resources
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AvenueVillageForm.resources
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AvenueVillageFormServeur.resources
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ComCheffQuartierLoc.resources
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ComCheffQuartierLocServeur.resources
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ConnectBdServeur.resources
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ConnexionBd.resources
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ExecuteQuery.resources
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ExecuteQueryServeur.resources
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.LoadingClient.resources
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ManipulationUtilisateur.resources
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ManipulationUtilisateurServeur.resources
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.MesageNotInserted.resources
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.Modem.resources
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ParametreProvinceForm.resources
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ParametreWebCam.resources
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ParametreWebCamServeur.resources
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.PersonneCarte.resources
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.PersonneCarteServeur.resources
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.PrincipalClient.resources
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.Properties.Resources.resources
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ProvinceForm.resources
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ServeurOperation.resources
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.VilleTerritoireForm.resources
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.csproj.GenerateResource.Cache
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.exe
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.pdb
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AideContent.resources
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AideContentServeur.resources
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.APropos.resources
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AProposServeur.resources
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AvenueVillageForm.resources
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AvenueVillageFormServeur.resources
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ComCheffQuartierLoc.resources
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ComCheffQuartierLocServeur.resources
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ConnectBdServeur.resources
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ConnexionBd.resources
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ExecuteQuery.resources
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ExecuteQueryServeur.resources
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.LoadingClient.resources
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ManipulationUtilisateur.resources
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ManipulationUtilisateurServeur.resources
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.MesageNotInserted.resources
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.Modem.resources
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ParametreProvinceForm.resources
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ParametreWebCam.resources
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ParametreWebCamServeur.resources
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.PersonneCarte.resources
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.PersonneCarteServeur.resources
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.PrincipalClient.resources
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.Properties.Resources.resources
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ProvinceForm.resources
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ServeurOperation.resources
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.StatistiquesGenerales.resources
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.TauxCroissance.resources
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.TauxMortalite.resources
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.TauxNatalite.resources
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.VilleTerritoireForm.resources
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.csproj.GenerateResource.Cache
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.exe
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_WIN.exe.config
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_WIN.exe
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_WIN.pdb
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_LIB.dll
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_LIB_SERVEUR.dll
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_RPT.exe
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\PDUConverter.dll
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\Mono.Security.dll
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\RS232.dll
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\GSMCommShared.dll
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_RPT.pdb
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\Npgsql.pdb
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\Npgsql.xml
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_LIB.pdb
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_LIB_SERVEUR.pdb
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\de\Npgsql.resources.dll
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\es\Npgsql.resources.dll
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\fi\Npgsql.resources.dll
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\fr\Npgsql.resources.dll
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\ja\Npgsql.resources.dll
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\PROJETS\F16\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.pdb
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.DensitePopulation.resources
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_WIN.exe.config
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.exe
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.pdb
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AideContent.resources
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AideContentServeur.resources
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.APropos.resources
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AProposServeur.resources
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AvenueVillageForm.resources
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AvenueVillageFormServeur.resources
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ComCheffQuartierLoc.resources
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ComCheffQuartierLocServeur.resources
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ConnectBdServeur.resources
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ConnexionBd.resources
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ExecuteQuery.resources
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ExecuteQueryServeur.resources
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.LoadingClient.resources
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ManipulationUtilisateur.resources
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ManipulationUtilisateurServeur.resources
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.MesageNotInserted.resources
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.Modem.resources
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ParametreProvinceForm.resources
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ParametreWebCam.resources
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ParametreWebCamServeur.resources
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.PersonneCarte.resources
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.PersonneCarteServeur.resources
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.PrincipalClient.resources
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.Properties.Resources.resources
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ProvinceForm.resources
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ServeurOperation.resources
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.DensitePopulation.resources
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.VilleTerritoireForm.resources
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.csproj.GenerateResource.Cache
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_WIN.exe
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_WIN.pdb
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_LIB.dll
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_LIB_SERVEUR.dll
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_RPT.exe
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\PDUConverter.dll
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\Mono.Security.dll
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\RS232.dll
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\GSMCommShared.dll
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_RPT.pdb
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\Npgsql.pdb
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\Npgsql.xml
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_LIB.pdb
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_LIB_SERVEUR.pdb
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\de\Npgsql.resources.dll
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\es\Npgsql.resources.dll
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_WIN.exe.config
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.exe
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.pdb
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AideContent.resources
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AideContentServeur.resources
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.APropos.resources
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AProposServeur.resources
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AvenueVillageForm.resources
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AvenueVillageFormServeur.resources
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ComCheffQuartierLoc.resources
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ComCheffQuartierLocServeur.resources
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ConnectBdServeur.resources
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ConnexionBd.resources
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ExecuteQuery.resources
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ExecuteQueryServeur.resources
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.LoadingClient.resources
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ManipulationUtilisateur.resources
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ManipulationUtilisateurServeur.resources
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.MesageNotInserted.resources
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.Modem.resources
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ParametreProvinceForm.resources
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ParametreWebCam.resources
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ParametreWebCamServeur.resources
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.PersonneCarte.resources
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.PersonneCarteServeur.resources
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.PrincipalClient.resources
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.Properties.Resources.resources
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ProvinceForm.resources
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ServeurOperation.resources
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.StatistiquesGenerales.resources
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.TauxCroissance.resources
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.TauxMortalite.resources
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.DensitePopulation.resources
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.VilleTerritoireForm.resources
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.csproj.GenerateResource.Cache
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_WIN.exe
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_WIN.pdb
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_LIB.dll
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_LIB_SERVEUR.dll
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_RPT.exe
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\PDUConverter.dll
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\Mono.Security.dll
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\RS232.dll
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\GSMCommShared.dll
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_RPT.pdb
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\Npgsql.pdb
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\Npgsql.xml
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_LIB.pdb
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_LIB_SERVEUR.pdb
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\de\Npgsql.resources.dll
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\es\Npgsql.resources.dll
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\A-B Views\Desktop\Via\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.RptDensite.resources
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.RptTauxNatalite.resources
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.RptTautMortalite.resources
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_WIN.exe.config
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.exe
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.pdb
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_WIN.exe
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_WIN.pdb
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_LIB.dll
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_LIB_SERVEUR.dll
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_RPT.exe
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\PDUConverter.dll
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\Mono.Security.dll
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\RS232.dll
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\GSMCommShared.dll
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_RPT.pdb
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\Npgsql.pdb
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\Npgsql.xml
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_LIB.pdb
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_LIB_SERVEUR.pdb
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\de\Npgsql.resources.dll
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\es\Npgsql.resources.dll
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\fi\Npgsql.resources.dll
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\fr\Npgsql.resources.dll
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\ja\Npgsql.resources.dll
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AideContent.resources
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AideContentServeur.resources
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.APropos.resources
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AProposServeur.resources
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AvenueVillageForm.resources
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AvenueVillageFormServeur.resources
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ComCheffQuartierLoc.resources
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ComCheffQuartierLocServeur.resources
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ConnectBdServeur.resources
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ConnexionBd.resources
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ExecuteQuery.resources
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ExecuteQueryServeur.resources
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.LoadingClient.resources
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ManipulationUtilisateur.resources
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ManipulationUtilisateurServeur.resources
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.MesageNotInserted.resources
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.Modem.resources
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ParametreProvinceForm.resources
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ParametreWebCam.resources
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ParametreWebCamServeur.resources
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.PersonneCarte.resources
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.PersonneCarteServeur.resources
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.PrincipalClient.resources
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.Properties.Resources.resources
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ProvinceForm.resources
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.RptDensite.resources
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ServeurOperation.resources
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.DensitePopulation.resources
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.RptTauxNatalite.resources
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.RptTautMortalite.resources
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.VilleTerritoireForm.resources
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.csproj.GenerateResource.Cache
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.RptTauxCroissance.resources
+D:\PROJECTS\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.RptCartePersonne.resources
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.RptTauxCroissance.resources
+C:\Users\user_\Desktop\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.RptCartePersonne.resources
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.RptDensite.resources
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.RptTauxCroissance.resources
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.RptTauxNatalite.resources
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.RptTautMortalite.resources
+D:\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.RptCartePersonne.resources
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_WIN.exe.config
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.exe
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.pdb
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_WIN.exe
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_WIN.pdb
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_LIB.dll
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_LIB_SERVEUR.dll
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_RPT.exe
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\PDUConverter.dll
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\Mono.Security.dll
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\RS232.dll
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\GSMCommShared.dll
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_RPT.pdb
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\Npgsql.pdb
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\Npgsql.xml
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_LIB.pdb
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_LIB_SERVEUR.pdb
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\de\Npgsql.resources.dll
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\es\Npgsql.resources.dll
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\fi\Npgsql.resources.dll
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\fr\Npgsql.resources.dll
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\ja\Npgsql.resources.dll
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\ResolveAssemblyReference.cache
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AideContent.resources
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AideContentServeur.resources
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.APropos.resources
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AProposServeur.resources
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AvenueVillageForm.resources
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AvenueVillageFormServeur.resources
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ComCheffQuartierLoc.resources
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ComCheffQuartierLocServeur.resources
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ConnectBdServeur.resources
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ConnexionBd.resources
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ExecuteQuery.resources
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ExecuteQueryServeur.resources
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.LoadingClient.resources
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ManipulationUtilisateur.resources
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ManipulationUtilisateurServeur.resources
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.MesageNotInserted.resources
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.Modem.resources
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ParametreProvinceForm.resources
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ParametreWebCam.resources
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ParametreWebCamServeur.resources
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.PersonneCarte.resources
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.PersonneCarteServeur.resources
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.PrincipalClient.resources
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.Properties.Resources.resources
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ProvinceForm.resources
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.RptDensite.resources
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ServeurOperation.resources
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.DensitePopulation.resources
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.RptTauxCroissance.resources
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.RptTauxNatalite.resources
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.RptTautMortalite.resources
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.VilleTerritoireForm.resources
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.RptCartePersonne.resources
+D:\DOC\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.csproj.GenerateResource.Cache
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_WIN.exe.config
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.exe
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.pdb
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_WIN.exe
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_WIN.pdb
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_LIB.dll
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_LIB_SERVEUR.dll
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_RPT.exe
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\PDUConverter.dll
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\Mono.Security.dll
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\RS232.dll
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\GSMCommShared.dll
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_RPT.pdb
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\Npgsql.pdb
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\Npgsql.xml
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_LIB.pdb
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_LIB_SERVEUR.pdb
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\de\Npgsql.resources.dll
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\es\Npgsql.resources.dll
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\fi\Npgsql.resources.dll
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\fr\Npgsql.resources.dll
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\ja\Npgsql.resources.dll
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\zh-CN\Npgsql.resources.dll
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\ResolveAssemblyReference.cache
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AideContent.resources
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AideContentServeur.resources
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.APropos.resources
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AProposServeur.resources
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AvenueVillageForm.resources
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AvenueVillageFormServeur.resources
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ComCheffQuartierLoc.resources
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ComCheffQuartierLocServeur.resources
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ConnectBdServeur.resources
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ConnexionBd.resources
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ExecuteQuery.resources
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ExecuteQueryServeur.resources
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.LoadingClient.resources
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ManipulationUtilisateur.resources
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ManipulationUtilisateurServeur.resources
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.MesageNotInserted.resources
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.Modem.resources
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ParametreProvinceForm.resources
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ParametreWebCam.resources
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ParametreWebCamServeur.resources
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.PersonneCarte.resources
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.PersonneCarteServeur.resources
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.PrincipalClient.resources
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.Properties.Resources.resources
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ProvinceForm.resources
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.RptDensite.resources
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ServeurOperation.resources
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.DensitePopulation.resources
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.RptTauxCroissance.resources
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.RptTauxNatalite.resources
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.RptTautMortalite.resources
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.VilleTerritoireForm.resources
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.RptCartePersonne.resources
+E:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.csproj.GenerateResource.Cache
+D:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\ResolveAssemblyReference.cache
+D:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AideContent.resources
+D:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AideContentServeur.resources
+D:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.APropos.resources
+D:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AProposServeur.resources
+D:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AvenueVillageForm.resources
+D:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.AvenueVillageFormServeur.resources
+D:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ComCheffQuartierLoc.resources
+D:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ComCheffQuartierLocServeur.resources
+D:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ConnectBdServeur.resources
+D:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ConnexionBd.resources
+D:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ExecuteQuery.resources
+D:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ExecuteQueryServeur.resources
+D:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.LoadingClient.resources
+D:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ManipulationUtilisateur.resources
+D:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ManipulationUtilisateurServeur.resources
+D:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.MesageNotInserted.resources
+D:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.Modem.resources
+D:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ParametreProvinceForm.resources
+D:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ParametreWebCam.resources
+D:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ParametreWebCamServeur.resources
+D:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.PersonneCarte.resources
+D:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.PersonneCarteServeur.resources
+D:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.PrincipalClient.resources
+D:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.Properties.Resources.resources
+D:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ProvinceForm.resources
+D:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.RptDensite.resources
+D:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.ServeurOperation.resources
+D:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.DensitePopulation.resources
+D:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.RptTauxCroissance.resources
+D:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.RptTauxNatalite.resources
+D:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.RptTautMortalite.resources
+D:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.VilleTerritoireForm.resources
+D:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.RptCartePersonne.resources
+D:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\obj\Debug\JOVIA_WIN.csproj.GenerateResource.Cache
+D:\DOC\CODES\PROJET_IDBConnect\JOVIA\JOVIA_WIN\bin\Debug\JOVIA_WIN.exe.config

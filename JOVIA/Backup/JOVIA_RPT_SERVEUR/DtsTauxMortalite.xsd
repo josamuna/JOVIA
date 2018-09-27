@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DtsTauxMortalite" targetNamespace="http://tempuri.org/DtsTauxMortalite.xsd" xmlns:mstns="http://tempuri.org/DtsTauxMortalite.xsd" xmlns="http://tempuri.org/DtsTauxMortalite.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DtsTauxMortalite" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DtsTauxMortalite" msprop:Generator_DataSetName="DtsTauxMortalite" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowClassName="DataTable1Row" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_TablePropName="DataTable1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="designation" msprop:Generator_UserColumnName="designation" msprop:Generator_ColumnVarNameInTable="columndesignation" msprop:Generator_ColumnPropNameInRow="designation" msprop:Generator_ColumnPropNameInTable="designationColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="superficie" msprop:Generator_UserColumnName="superficie" msprop:Generator_ColumnVarNameInTable="columnsuperficie" msprop:Generator_ColumnPropNameInRow="superficie" msprop:Generator_ColumnPropNameInTable="superficieColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TauxMortalite" msprop:Generator_UserColumnName="TauxMortalite" msprop:Generator_ColumnVarNameInTable="columnTauxMortalite" msprop:Generator_ColumnPropNameInRow="TauxMortalite" msprop:Generator_ColumnPropNameInTable="TauxMortaliteColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="annee" msprop:Generator_UserColumnName="annee" msprop:Generator_ColumnPropNameInRow="annee" msprop:Generator_ColumnVarNameInTable="columnannee" msprop:Generator_ColumnPropNameInTable="anneeColumn" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
